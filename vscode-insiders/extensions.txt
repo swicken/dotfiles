@@ -1,0 +1,8 @@
+dbaeumer.vscode-eslint
+eamodio.gitlens
+geequlim.godot-tools
+github.copilot
+github.copilot-chat
+github.vscode-github-actions
+hashicorp.terraform
+ms-playwright.playwright

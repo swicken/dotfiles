@@ -1,0 +1,17 @@
+{
+    "github.copilot.chat.agent.enabled": true,
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "chat.agent.enabled": true,
+    "github.copilot.chat.codesearch.enabled": true,
+    "github.copilot.advanced": {
+
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "explicit",
+        "source.fixAll.eslint": "explicit"
+    },
+    "files.autoSave": "afterDelay",
+    "git.replaceTagsWhenPull": true,
+}
